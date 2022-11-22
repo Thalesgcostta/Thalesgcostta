@@ -1,4 +1,5 @@
-<h1>Hello my name is Thales, i love working with technology and website development, check out a little bit of my projects...</h1>
+<h1>Hello my name is Thales</h1>
+<h2>i love working with technology and website development, check out a little bit of my projects...</h2>
 
 <div>
   <a href="https://github.com/Thalesgcostta">
